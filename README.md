@@ -10,4 +10,4 @@ Application of Socket Programming in Implementing FTP commands such as RETR, STO
    c) LIST : List all files in server. <br/>
    d) QUIT : Exit the program. <br/>
    e) DELE : Delete a file from server. <br/>
-4) For additional information about kindly refer to readme.txt
+4) For additional information kindly refer to readme.txt
